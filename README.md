@@ -24,3 +24,7 @@ react-native and react-redux job search app
 <br>
 
 ![Simulator Screen Shot - iPhone 12 - 2021-09-30 at 19 59 01](https://user-images.githubusercontent.com/34940061/135499697-3854aa97-8e7a-4f1e-a303-a7a6245cc5ea.png)
+
+<br>
+
+![Simulator Screen Shot - iPhone 12 - 2021-09-30 at 19 59 05](https://user-images.githubusercontent.com/34940061/135499768-1abde46e-5c45-4cd2-afa4-9379058b39c3.png)
